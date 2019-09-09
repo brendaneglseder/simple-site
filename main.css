@@ -1,0 +1,20 @@
+h1 {
+  color: Red;
+  font-family: verdana;
+  font-size: 300%;
+  font-weight: bold;
+}
+
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+
+.myimage {
+    float:left;
+    width:150px;
+    height:175px;
+    margin:20px;
+    border-radius: 20px;
+}
