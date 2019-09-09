@@ -7,13 +7,13 @@ h1 {
 
 p  {
   color: red;
-  font-family: courier;
-  font-size: 160%;
+  font-family: Palatino;
+  font-size: 140%;
 }
 
 .myimage {
-    float:left;
-    width:150px;
+    float:center;
+    width:90%;
     height:175px;
     margin:20px;
     border-radius: 20px;
